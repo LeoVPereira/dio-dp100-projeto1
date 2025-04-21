@@ -1,0 +1,6 @@
+Temperatura influencia diretamente na venda de sorvetes.
+Em dias mais quentes, observamos aumento significativo na demanda.
+A previsão de vendas ajuda a reduzir desperdício e melhorar o lucro.
+O modelo preditivo foi treinado no Azure Machine Learning.
+Utilizei Regressão Linear para estimar a quantidade de sorvetes vendidos.
+A ferramenta MLflow foi usada para rastrear experimentos.
